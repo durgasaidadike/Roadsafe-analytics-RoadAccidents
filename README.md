@@ -35,27 +35,27 @@ The dashboard is designed to provide an interactive and intuitive view of accide
 
 Major components of the dashboard include:
 
-Accident Severity Distribution
+Accident Severity Distribution:
 
 Displays the number of accidents across different severity levels using bar charts or pie charts to understand how frequently severe accidents occur.
 
-Time-Based Accident Analysis
+Time-Based Accident Analysis:
 
 Shows accident frequency based on hour of the day, day of the week, and month, helping identify peak accident periods.
 
-Weather and Road Condition Analysis
+Weather and Road Condition Analysis:
 
 Visualizes how weather conditions such as rain, fog, or clear weather affect accident occurrences and severity.
 
-Visibility and Environmental Factor Analysis
+Visibility and Environmental Factor Analysis:
 
 Analyzes how visibility levels and environmental conditions influence accident severity using correlation charts and boxplots.
 
-Geospatial Accident Analysis
+Geospatial Accident Analysis:
 
 Uses latitude and longitude data to visualize accident locations on maps and identify accident-prone regions or hotspots.
 
-Accident Hotspot Identification
+Accident Hotspot Identification:
 
 Highlights the top accident-prone states or cities based on accident frequency.
 
