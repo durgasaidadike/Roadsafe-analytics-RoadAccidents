@@ -3,11 +3,17 @@ PROBLEM STATEMENT:The goal of this project is to analyze a large dataset of road
 contributing to accident severity. The project involves performing in-depth exploratory data analysis (EDA) using
 Python libraries such as Pandas, Matplotlib, and Seaborn to extract meaningful insights that can help improve road
 safety.
+
+
 TITLE OF THE PROJECT:RoadSafe Analytics:Road Accidents - Exploratory
 Data Analysis (EDA)
+
+
 DATASET DESCRIPTION:US Accidents Dataset (from Kaggle): https://www.kaggle.com/datasets/sobhanmoosavi/us-accidentsThe dataset
 includes over 4 million accident records with attributes such as time, location, severity, weather, road conditions,
 and visibility.
+
+
 MATRIX DESCRIPTION:
 | Module No | Module Name                                | Description                                                                                                                                                                                         | Tools Used                       | Output                                                                       |
 | --------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------- |
@@ -54,6 +60,9 @@ Accident Hotspot Identification
 Highlights the top accident-prone states or cities based on accident frequency.
 
 The dashboard enables users to easily interpret the analytical findings and supports data-driven road safety awareness and policy recommendations.
+
+
+
 TOOLS USED:
 | Tool                                 | Purpose                                                          |
 | ------------------------------------ | ---------------------------------------------------------------- |
